@@ -11,5 +11,8 @@
     "mongoose"
   ],
   "author": "Roberto Pintos López",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
