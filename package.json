@@ -8,7 +8,9 @@
     "build:incremental": "tsc --build tsconfig.incremental.json",
     "lint": "eslint src",
     "prebuild": "rimraf dist",
-    "test": "mocha"
+    "test": "mocha",
+    "test:js": "mocha --config=\".mocharc.compiled.js\"",
+    "test:unit": "mocha --config=\".mocharc.unit.js\""
   },
   "keywords": [
     "CDDD",
