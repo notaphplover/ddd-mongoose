@@ -1,0 +1,15 @@
+{
+  "name": "cddd-mongoose",
+  "version": "0.0.1",
+  "description": "CuakLabs Domain Driven Development mongoose integration sample",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "CDDD",
+    "mongoose"
+  ],
+  "author": "Roberto Pintos López",
+  "license": "MIT"
+}
